@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4875830d-6ddc-4d39-9c48-09fc9d8c379b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,7 +20,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1503846083000" expanded="true" signature="17896:17968" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18013:18722" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18044:18707" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18056:18693" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18083:18680" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18101:18663" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18121:18644" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18181:18236" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18298:18353" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18396:18623" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18419:18599" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18772:18836" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18874:18940" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="18987:19113" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="19155:19567" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="19215:19552" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="19277:19539" ph="..." />
+                <marker date="1503846083000" expanded="true" signature="19321:19521" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -225,12 +243,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503846006259</updated>
-      <workItem from="1503846007658" duration="76000" />
+      <workItem from="1503846007658" duration="92000" />
     </task>
+    <task id="LOCAL-00001" summary="项目构建">
+      <created>1503846094216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503846094217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76000" />
+    <option name="totallyTimeSpent" value="92000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,6 +335,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目构建" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目构建" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -322,7 +352,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1503846083000" expanded="true" signature="17896:17968" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18013:18722" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18044:18707" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18056:18693" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18083:18680" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18101:18663" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18121:18644" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18181:18236" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18298:18353" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18396:18623" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18419:18599" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18772:18836" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18874:18940" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="18987:19113" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="19155:19567" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="19215:19552" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="19277:19539" ph="..." />
+            <marker date="1503846083000" expanded="true" signature="19321:19521" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
